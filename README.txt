@@ -1,3 +1,3 @@
-Plugin to simply output a value json encoded.
+Simple ExpressionEngine Plugin to output a value JSON encoded from template.
 
 Christopher Olaussen
